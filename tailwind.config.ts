@@ -71,10 +71,10 @@ const config: Config = {
         },
         slide: {
           from: {
-            transform: "translateX(100%)",
+            transform: "translateY(-100%)",
           },
           to: {
-            transform: "translateX(0%)",
+            transform: "translateY(0%)",
           },
         },
       },
